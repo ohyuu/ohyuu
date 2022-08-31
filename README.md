@@ -7,7 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bricksoftapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bricksoftapps" height="30" width="40" />Twitter</a>
-<a href="https://stackoverflow.com/users/3793309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3793309" height="30" width="40" />StackOverflow</a>
+<a href="https://stackoverflow.com/users/3793309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />StackOverflow</a>
+<a href="https://www.linkedin.com/in/yuna-gesser-47a42924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
